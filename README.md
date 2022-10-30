@@ -1,4 +1,4 @@
-# Driver-Safety-Detection-System
+ <h1 align='center'> # Driver-Safety-Detection-System 🚌 </h1>
 
 ## Inspiration :bulb:
 
